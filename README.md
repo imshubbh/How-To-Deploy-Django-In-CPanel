@@ -7,4 +7,4 @@
     1. Configure **passenger.wsgi** file 
        - from your-application-name.wsgi import application ( chnage youur-application-name only )
        
-    2. Add .htaccess fiel if not created. ( https://i.pinimg.com/564x/ad/a7/a7/ada7a7c06083a34bc991b70d87a0b275.jpg )
+    2. Add .htaccess file if not created. [image](https://i.pinimg.com/564x/cd/88/3a/cd883ae5a33bda80d270035793c708d0.jpg)
